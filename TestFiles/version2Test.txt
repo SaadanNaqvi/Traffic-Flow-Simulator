@@ -1,0 +1,17 @@
+NOTE: Placement of 1's and 0's are randomised thus differnet iterations of the code will have different outputs
+with the same inputs. Also the final grid at the end of the simulatiom will be taken as the output.
+laneNum:    laneLength:     numCars:    simTime:     Output:                                                
+3           8               60          10           ---->>--
+                                                     --------
+                                                     ----->--
+    
+1           1               120         5            -
+
+8           8               60          10           >-------
+                                                     --->>>--
+                                                     ----->--
+                                                     -->>----
+                                                     >--->---
+                                                     --------
+                                                     ->------
+                                                     ->-->-->

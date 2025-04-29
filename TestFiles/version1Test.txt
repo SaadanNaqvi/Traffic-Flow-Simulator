@@ -1,0 +1,10 @@
+NOTE: Placement of 1's and 0's are randomised thus differnet iterations of the code will have different outputs
+with the same inputs.
+laneNum:    laneLength:     Output:                                                
+3           10              0     1     1     1     1     1     1     1     1     1
+                            1     1     1     1     1     1     1     1     1     1
+                            1     0     0     0     0     0     0     1     0     0
+
+1           1               1
+
+1           8               1     0     0     0     0     0     0     0
