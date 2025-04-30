@@ -1,0 +1,36 @@
+Conceptual Coverage (40 points) - I believe my project falls into the "Excellent" category (40 pts) for the following reasons:
+
+- I/O: My program reads terminal based user input via input() and displays output via imshow()
+- Vectors: I use vectors as user inputs for road creation and etc.
+- Matrices: I implement a 2D grid array which is constantly bieng updated with moving cars described with different values (1,2) and stationary intersections
+- Conditional execution: I use if/else statements throughout the program
+- Loops: Throughout their are multiple different types of loops and even multiple nested loops.
+- Functions: I created a car movment function, a car spawning function and a visual update function for the grid.
+
+Value-add (20 points) - I believe my project falls into the "Excellent" category (20 pts) for the following reasons:
+
+- Functionality: I think my code functions exactly as it is intended to with a very wonderfull traffic simulation having been created with fully
+functioning intersections,traffic lights and car movment
+
+- Creativity: Very creative with the grid-like aproach to the whole program, with cars bieng defined with numbers on the grid,
+incrementaly moving throughout it and time bieng simulated using a for loop and pause function.
+
+- 800 lines of well formated modular code.
+
+Incremental Development (15 points) - I believe my project falls into the "Substantial" category (11.25 pts) for the following reasons:
+
+Incrementaly developed this project over 8 different versions with each one adding a new feature
+However their was a massive jump in line-count over the last 3 versions due to the complexity of simulating an intersection
+
+Testing Strategy (15 points) - I believe my project falls into the "Excellent" category (15 pts) for the following reasons:
+
+Every version was tested 3 times with versions using the imshow() feature having videos showcasing them working, also
+the grids for each second of the simulation were also displayed
+
+Comments and Style (10 points) - I believe my project falls into the "Excellent" category (10 pts) for the following reasons:
+
+Comments for every single improtant part of the code explaining what every section does and waht certain syntax does
+
+
+
+
